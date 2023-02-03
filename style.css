@@ -1,7 +1,7 @@
 .box {
   width: 100px;
   height: 100px;
-  background-color: greenyellow;
+  background: linear-gradient(to right, #f80759, #bc4e9c);
   position: fixed;
   top: 100px;
   left: 100px;
